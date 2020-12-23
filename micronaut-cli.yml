@@ -1,0 +1,6 @@
+applicationType: messaging
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [annotation-api, app-name, junit, kafka, kotlin, kotlin-application, logback, maven, readme, shade, yaml]
